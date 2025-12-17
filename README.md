@@ -1,3 +1,5 @@
+<img width="1210" height="847" alt="image" src="https://github.com/user-attachments/assets/a69b1af7-5417-49f7-937f-d330628f403a" />
+
 # 通用多层 JSON 制作工具：从 Excel 到结构化数据的优雅转身
 
 在数据处理的日常工作中，我们经常需要将 Excel 表格中的扁平化数据转换为层级分明的 JSON 格式，以便于后续的系统对接或数据分析。本文将详细介绍一款基于 Python PyQt5 开发的“通用多层 JSON 制作工具”，它不仅支持灵活的列映射，还引入了强大的正则表达式匹配功能，让数据转换变得前所未有的简单和高效。
